@@ -60,8 +60,8 @@
 ## Output:
 ![image](https://github.com/user-attachments/assets/8d3d84ab-0925-44a7-9467-7118616e817d)
 
-### Name: Pramisha P
-### Register Number:212224230203
+### Name: Naveen kumar.R
+### Register Number:212223230139
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
